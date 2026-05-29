@@ -1,3 +1,4 @@
+package lab1;
 public class fabo {
     public static void main(String[] args) {
         int a=0;

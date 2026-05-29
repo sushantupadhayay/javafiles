@@ -1,3 +1,4 @@
+package lab1;
  class ArrayIndexDemo{
     public static void main(String...arg){
         String[] names={"S","U","S","A","N","IS","MY","NAME"};

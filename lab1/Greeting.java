@@ -1,3 +1,4 @@
+package lab1;
 //wap to take your name as input and display greeting message using scanner class
 // wap to take Two numbers as a input and display  As product
 import java.util.Scanner;
